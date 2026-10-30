@@ -1,4 +1,3 @@
-
 def replace_value(values, index, new_value):
     values[index] = new_value
 
